@@ -27,7 +27,9 @@ public class reverseSentence {
 		reverseSente2();
 		System.out.println("I LOVE MY JOB");
 		System.out.println("I LOVE TEXAS");
-		System.out.println("I LOVE AMERICA");
+
+		
+
 
 
 	}
