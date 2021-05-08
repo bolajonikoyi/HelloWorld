@@ -1,5 +1,3 @@
-package String;
-
 public class reverseSentence {
 
 	public static void reverseSente(){
