@@ -25,10 +25,11 @@ public class reverseSentence {
 		// TODO Auto-generated method stub
 		reverseSente();
 		reverseSente2();
-
-
 		System.out.println("I LOVE MY JOB");
 		System.out.println("I LOVE TEXAS");
+		System.out.println("I LOVE AMERICA");
+
+
 	}
 
 }
